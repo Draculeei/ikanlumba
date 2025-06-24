@@ -4,7 +4,7 @@
   <title>BNG Searcher</title>
 </head>
 <body>
-  <h1>Selamat Datang di BNG Searcher</h1>
+  <h1>Selamat Datang di VLAN Viberlink lumba*</h1>
   <p>Ini adalah halaman utama.</p>
 </body>
 </html>
